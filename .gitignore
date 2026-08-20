@@ -1,0 +1,6 @@
+﻿.ipynb_checkpoints/
+*.db
+*.sqlite
+*.sqlite3
+*.csv
+*.xlsx
