@@ -111,9 +111,6 @@ The analysis suggests that customer retention efforts can focus on:
 ## 📁 Project Structure
 
 ```text
-Customer-Churn-Analysis/
-│
 ├── Customer_Churn_Analysis.ipynb
 ├── README.md
-└── dataset/
-    └── customer_data.csv
+└── customer_data.csv
